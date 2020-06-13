@@ -1,6 +1,6 @@
 // from data.js
 
-d3.json("data/web_index.json").then((importedData) => {
+d3.json("Web_Index.json").then((importedData) => {
     console.log(importedData);
     var data = importedData;
 
